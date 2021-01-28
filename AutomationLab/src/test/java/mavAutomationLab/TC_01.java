@@ -1,4 +1,4 @@
-package mav.AutomationLab;
+package mavAutomationLab;
 
 import org.junit.Test;
 import org.openqa.selenium.JavascriptExecutor;
